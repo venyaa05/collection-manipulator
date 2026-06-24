@@ -361,12 +361,4 @@ This project can be improved further by adding:
 
 ---
 
-# 💖 Author Note
-
-Made with dedication for **Python practice, logic building, and concept clarity** 🌸✨
-
----
-
-<p align="center">
-  ⭐ If you like this project, don't forget to give it a star on GitHub ⭐
 </p>
